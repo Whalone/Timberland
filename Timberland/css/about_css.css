@@ -1,0 +1,26 @@
+#main-about{
+	width: 72%;
+	margin: 0 auto;
+	height: 600px;
+
+}
+h2{
+	font-weight: bold;
+	font-family: 微软雅黑;
+	letter-spacing: 5px;
+	padding-top: 15px;
+	padding-bottom: 25px;
+}
+p{
+	font-family: 宋体;
+	font-size: 18px;
+	letter-spacing: 1px;
+}
+#main-about ul{
+	padding-top: 20px; 
+	padding-left: 60px;
+	line-height: 25px;
+}
+#main-about ul li{
+	font-family: 微软雅黑;
+}

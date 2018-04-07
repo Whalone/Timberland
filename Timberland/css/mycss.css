@@ -1,0 +1,302 @@
+*{
+	padding: 0;
+	margin:0 ;
+	
+}
+#header{
+	width: 100%;
+	height: 50px;
+	background: #332B28;
+}
+#small-menu{
+	float: right;
+	height: 25px;
+	margin-right: 380px;
+	margin-top: 5px
+
+}
+#small-menu ul{
+	list-style: none;
+}
+#small-menu li{
+	float: left;
+	width:90px;
+	
+}
+#small-menu a{
+	color: #9B9491;
+	font-family: "微软雅黑";
+	text-decoration: none;
+    font-size: 12px;
+    letter-spacing: 0.75px;
+    line-height: 25px;
+    vertical-align:top;
+}
+#small-menu a:hover{
+	color:white;
+}
+
+
+#primary-menu{
+	width: 100%;
+	height:60px;
+	background: #332B28;
+	
+}
+#logo{
+	position: relative;
+	float:left;
+	width: 177px;
+	height: 60px;
+	margin-left: 14%;
+		
+}
+#logo img{
+	height: 60px;
+}
+#search{
+	position: relative;
+	float:right;
+	top:8px;
+	margin-right:14%;
+	
+}
+
+#big-menu{
+	
+	position: relative;
+	float: left;
+	margin-left: 15%;
+	height: 60px;
+	
+	
+}
+#big-menu ul{
+	position: relative;
+	list-style: none;
+	height: 60px;
+	text-align: center;
+}
+#big-menu li{
+	position: relative;
+	float: left;
+	width:150px;
+	height: 60px;
+	
+}
+
+#big-menu li ul{
+	position: relative;
+	list-style: none;
+	height: 60px;
+	text-align: center;
+	float: left;
+	z-index: 5;
+	display: none;
+}
+#big-menu li ul li{
+	position: relative;
+	float: left;
+	width:150px;
+	background-color: #332B28;
+	
+}
+
+#big-menu a{
+	color: white;
+	font-family: "微软雅黑";
+	text-decoration: none;
+    font-size: 15px;
+    letter-spacing: 0.75px;
+    line-height: 25px;
+    vertical-align:top;
+    line-height: 60px;
+}
+
+
+#big-menu a:hover{
+	color:#9B9491;
+}
+
+#big-menu ul li:hover ul{
+	display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#myFocus
+{ 
+	width:1108px; 
+	height:554px;
+	margin: 0 auto;
+	z-index: 0;
+}
+
+#first{
+	position: relative;
+	width: 100%;
+	height: 350px;
+	text-align: center;
+	top:10px;
+}
+.cloth{
+	position: relative;
+	float: left;
+	width: 220px;
+	height: 330px;
+	margin: 0 auto;
+	text-align: center;
+	left: 11%;
+	
+}
+.cloth span{
+	line-height: 25px;
+}
+
+
+#second{
+	position: relative;
+	top:10px;
+	width: 100%;
+	height: 610px;
+	background:#E6E6E6;
+
+}
+
+
+#new1{
+	width: 100%;
+	height: 265px;
+
+
+}
+#new2{
+	width: 100%;
+	height: 265px;
+
+}
+.new{
+	position: relative;
+	float: left;
+	width: 335px;
+	height: 237px;
+	margin-right: 40px;
+	margin-bottom: 20px;
+	text-align: center;
+	left:11%;
+
+}
+
+#third {
+	margin-top:20px;
+	width: 100%;
+	height: 630px;
+	
+}
+#title{
+	width:100%;
+	height: 70px;
+	
+	text-align:center;
+}
+#title span{
+	font-size: 20px;
+	font-family: 微软雅黑;
+	position: relative;
+	top:20px;
+	font-weight: bold;
+	
+}
+#zhaoxing{
+	width: 100%;
+	height: 545px;
+	
+}
+.zhaoxing{
+	width: 282px;
+	height: 545px;
+	position: relative;
+	float: left;
+	text-align: center;
+	left: 11%;
+}
+#foot{
+	width: 100%;
+	height: 110px;
+	background: #332B28;
+	text-align: center;
+
+}
+
+
+/* 男装; */
+#nanzhuangpic{
+	width: 1200px;
+	height: 596px;
+	margin:0 auto;
+}
+
+#nz-title span{
+	font-size: 20px;
+	font-family: 微软雅黑;
+	position: relative;
+	top:20px;
+	font-weight: bold;
+	text-align: center;
+	right: 14%;
+}
+.cloth2{
+	position: relative;
+	float: left;
+	width: 220px;
+	height: 330px;
+	padding-top: 30px;
+	text-align: center;
+	left: 20%;
+	line-height: 30px;
+}
+#nz-new{
+	width: 100%;
+	height: 540px;
+
+}
+.nz-new{
+	position: relative;
+	float: left;
+	width: 540px;
+	height: 540px;
+	top:30px;
+	left: 12%;
+	margin-right:10px;
+}
+.zhaoxing2{
+	width: 282px;
+	height: 545px;
+	position: relative;
+	float: left;
+	text-align: center;
+	left:30%;
+	padding: 5px;
+}
+
+.cloth2 img{
+	width: 170px;
+	height: 170px;
+}
+

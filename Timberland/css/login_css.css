@@ -1,0 +1,40 @@
+#main-login{
+	width: 72%;
+	margin: 0 auto;
+	height: 500px;
+}
+h2{
+	font-weight: bold;
+	font-family: 微软雅黑;
+	letter-spacing: 5px;
+	padding-top: 15px;
+}
+span{
+		font-size: 18px;
+		font-family: 微软雅黑;
+		font-weight:bold;
+	}
+#login div{
+	position: relative;
+	top:80px;
+	left:30px;
+	padding-bottom: 10px;
+}
+#login #button {
+	position: relative;
+	top: 100px;
+	left:60px;
+}
+#login{
+		width: 300px;
+		height: 400px;
+		position: relative;
+		top:30px;
+		margin:0 auto;
+}
+#forget p{
+	text-align: center;
+	right: 30px;
+	position: relative; 
+	top:30px;
+}

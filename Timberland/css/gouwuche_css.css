@@ -1,0 +1,66 @@
+#main-gouwuche{
+	width: 72%;
+	height: 600px;
+	margin: 0 auto;
+}
+h2{
+	font-weight: bold;
+	font-family: 微软雅黑;
+	letter-spacing: 5px;
+	padding-top: 15px;
+	padding-bottom: 25px;
+}
+table{
+	width: 100%;
+
+}
+p{
+	text-align: center;
+	line-height: 150px;
+}
+img{
+	position: relative;
+	float: left;
+
+}
+tr{
+	text-align: center;
+}
+.num{
+	width: 20px;
+	text-align: center;
+}
+.btn{
+	width: 20px;
+	height: 20px;
+}
+.price{
+	width: 60px;
+	border: 0;
+}
+th{
+	font-family: 微软雅黑;
+	font-weight: normal;
+	background-color: rgb(232,232,232);
+}
+tfoot {
+	background-color: rgb(232,232,232);
+}
+tfoot td{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: right;
+	padding-right: 50px;
+	font-size: 23px;
+}
+#pay{
+	width: 200px;
+	position: relative;
+	float: right;
+	height: 50px;
+	margin-right: 50px;
+	margin-top: 30px;
+	background: rgb(82,161,82);
+	font-family: 微软雅黑;
+	color: white;
+}

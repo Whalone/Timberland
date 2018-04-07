@@ -1,0 +1,107 @@
+#daohang{
+	width: 100%;
+	height: 65px;
+	
+}
+#daohang p{
+	position: relative;
+	left: 14%;
+	
+	letter-spacing: 5px;
+}
+#daohang a{
+	font-family: 微软雅黑;
+	text-decoration: none;
+	color: black;
+	line-height: 65px;
+}
+#daohang a:hover{
+	text-decoration: underline;
+}
+#daohang hr{
+	border: dotted #332B28 1px;
+	width:72%;
+	margin: 0 auto;
+
+}
+
+
+#row{
+	width: 72%;
+	margin: 0 auto;
+	height: 122px;
+}
+#row p{
+	position: relative;
+	float: left;
+	font-family: 微软雅黑;
+	line-height: 122px;
+	letter-spacing: 5px;
+	font-size: 25px;
+}
+#row select{
+	position: relative;
+	float: right;
+	top: 30%;
+	height: 50px;
+	width: 150px;
+}
+
+#main{
+	width: 72%;
+	margin: 0 auto;
+	height: 1300px;
+}
+#yifulan{
+	position: relative;
+	float: left;
+	color: #FFB90F;
+}
+#main dl{
+	
+	font-family: 宋体;
+	letter-spacing: 2px;
+	font-size: 16px;
+	line-height: 30px;
+	width: 200%;
+}
+
+
+#main dd a {
+	text-decoration: none;
+	color: black;
+}
+#main dd a:hover{
+	color: #FFB90F;
+}
+
+
+
+#picgroup{
+	position: relative;
+	float: right;
+	padding-bottom: 10px;
+}
+.cloth3{
+	position: relative;
+	float: right;
+	text-align: center;
+	padding-top: 0;
+}
+.cloth3 img{
+	width: 250px;
+	height: 250px;
+	padding-bottom: 5px;
+}
+.cloth3 a{
+	font-family: 微软雅黑;
+	color: black;
+	text-decoration: none;
+}
+.cloth3 a:hover{
+	text-decoration: underline;
+}
+.cloth3 #price{
+	font-family: 微软雅黑;
+	color:#4B66B2;"
+}

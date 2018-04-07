@@ -1,0 +1,112 @@
+.clear{
+	clear: both;
+}
+
+#main-yifu{
+
+	width: 72%;
+	margin: 0 auto;
+	height: 1100px;
+}
+#daohang img{
+	position: relative;
+	top:6px; 
+}
+#left{
+	position: relative;
+	float: left;
+	width: 550px;
+	height: 500px;
+
+}
+#right{
+	width: 470px;
+	height: 500px;
+	position: relative;
+	float: right;
+	
+}
+
+#right hr{
+	border: dotted #332B28 1px;
+	size: 2;
+}
+#right h1{
+	font-family: 微软雅黑;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+#right p{
+	font-family: 微软雅黑;
+	font-size: 15px;
+	padding-top:25px;
+	padding-bottom: 25px;
+}
+#right h2{
+	font-family: 宋体;
+	color: rgb(75,102,153);
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+#right h5{
+	color:rgb(94,77,65);
+	padding-bottom: 10px;
+}
+#right #buy{
+	background-color: rgb(64,87,119);
+	height: 50px;
+	text-align: center;
+	margin-bottom: 5px;
+}
+#right #buy:hover{
+	cursor: pointer;
+}
+#right #buy:active{
+	position: relative;
+	top:2px;
+}
+#buy span{
+	color:white;
+	line-height: 50px;
+}
+
+#chanpinmiaoshu{
+	width: 100%;
+	background-color: rgb(243,243,233);
+	height: 200px;
+}
+
+#chanpinmiaoshu h2{
+	font-family: 微软雅黑;
+	padding-top: 20px;
+	font-weight: normal;
+	padding-bottom: 20px;
+}
+#chanpinmiaoshu p{
+	font-family: 微软雅黑;
+	line-height: 30px;
+}
+
+.chanpintuijian{
+	position: relative;
+	float: left;
+	width: 150px;
+	height: 220px;
+	text-align: center;
+	margin-right: 8px;
+	margin-left: 8px;
+}
+.chanpintuijian a{
+	font-family: 微软雅黑;
+	font-size: 8px;
+	text-decoration: none;
+	color:black;
+}
+.chanpintuijian a:hover{
+	text-decoration: underline;
+}
+.chanpintuijian p{
+	font-family: 微软雅黑;
+	font-size: 8px;
+	color: rgb(75,102,153);
+}

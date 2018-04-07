@@ -1,0 +1,29 @@
+.clear{
+	clear: both;
+}
+#main-xiaiqingdan{
+	width: 72%;
+	margin: 0 auto;
+	height: 900px;
+}
+h2{
+	font-weight: bold;
+	font-family: 微软雅黑;
+	letter-spacing: 5px;
+	padding-top: 15px;
+	padding-bottom: 25px;
+}
+
+.cloth-love{
+	width: 260px;
+	height: 340px;
+	position: relative;
+	float: left;
+	left: 120px;
+	text-align: center;
+}
+p{
+	font-family: 黑体;
+	letter-spacing: 1px;
+	line-height: 25px;
+}
